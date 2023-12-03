@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:gold;
+    padding: 20px;
+    border-radius: 30px;
+}
+header img {height: 50px;}
+h1 {font-size: 40px;
+color:black;}
+footer p {background-color: gold;}
+nav a { 
+background-color: gold;
+padding: 15px;
+border-radius: 20px;
+}
+nav {
+    margin: 30px;
+}
+.ter {
+    background-color: white;
+}
+    .per
+    {font-size: 20px;
+    background-color: gold;
+    border-radius: 20px;
+}
